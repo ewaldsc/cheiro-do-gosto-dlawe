@@ -75,7 +75,7 @@ body {
       scrollbar-width: none !important;
 }
 
-.marker {
+/* .marker {
     background-image: url('assets/santa_tereza.png');
     background-size: cover;
     width: 58px;
@@ -90,7 +90,7 @@ body {
     width: 40px;
     height: 40px;
     cursor: pointer;
-}
+} */
 
 hr {
   border-top: 1px dashed var(--verde) !important;
@@ -621,7 +621,7 @@ strong::selection{
 .mapboxgl-popup-anchor-left .mapboxgl-popup-tip {
     border-right-color: var(--verde) !important;
     border-top-color: #00000000 !important;
-    border-bottom-color: #fff0 !important; !important;
+    border-bottom-color: #fff0 !important;
 }
 
 .mapboxgl-popup-anchor-left {
